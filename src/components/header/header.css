@@ -1,0 +1,10 @@
+div {
+  display: flex;
+  flex-direction: column;
+}
+li,
+p {
+  color: black;
+  font-size: 32px;
+  font-weight: 600;
+}
